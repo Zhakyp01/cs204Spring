@@ -15,7 +15,7 @@ public class Cs204Application {
 
 	@GetMapping("/")
 	public String index() {
-		return "<h1>Hello World</h1>";
+		return "<h1>Hello MY DEAR</h1>";
 	}
 
 }
